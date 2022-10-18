@@ -1,4 +1,6 @@
-# Docker crash MacOS with TripMode
+# Docker Compose crash MacOS Network with TripMode
+
+Problem exist only with Docker Compose and a Dockerfile which pulls an image which has not been pulled in the past.
 
 ## Tripmode
 
